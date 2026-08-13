@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #d6336c;
+  background-color: #052f6a;
   color: #ffffff;
   padding: 2rem 1.5rem;
   text-align: center;
@@ -44,7 +44,7 @@ main {
 
 .card {
   background-color: #ffffff;
-  border-left: 6px solid #d6336c;
+  border-left: 6px solid #131b72;
   border-radius: 8px;
   padding: 1.5rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
@@ -64,7 +64,7 @@ main {
 
 .conceitos h2 {
   font-size: 1rem;
-  color: #d6336c;
+  color: #21236c;
   margin-bottom: 0.75rem;
 }
 
